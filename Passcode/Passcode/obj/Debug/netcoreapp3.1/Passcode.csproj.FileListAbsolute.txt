@@ -1,0 +1,13 @@
+C:\Users\hotsh\OneDrive\Desktop\C#\Passcode\Passcode\bin\Debug\netcoreapp3.1\Passcode.exe
+C:\Users\hotsh\OneDrive\Desktop\C#\Passcode\Passcode\bin\Debug\netcoreapp3.1\Passcode.deps.json
+C:\Users\hotsh\OneDrive\Desktop\C#\Passcode\Passcode\bin\Debug\netcoreapp3.1\Passcode.runtimeconfig.json
+C:\Users\hotsh\OneDrive\Desktop\C#\Passcode\Passcode\bin\Debug\netcoreapp3.1\Passcode.runtimeconfig.dev.json
+C:\Users\hotsh\OneDrive\Desktop\C#\Passcode\Passcode\bin\Debug\netcoreapp3.1\Passcode.dll
+C:\Users\hotsh\OneDrive\Desktop\C#\Passcode\Passcode\bin\Debug\netcoreapp3.1\Passcode.pdb
+C:\Users\hotsh\OneDrive\Desktop\C#\Passcode\Passcode\obj\Debug\netcoreapp3.1\Passcode.csprojAssemblyReference.cache
+C:\Users\hotsh\OneDrive\Desktop\C#\Passcode\Passcode\obj\Debug\netcoreapp3.1\Passcode.AssemblyInfoInputs.cache
+C:\Users\hotsh\OneDrive\Desktop\C#\Passcode\Passcode\obj\Debug\netcoreapp3.1\Passcode.AssemblyInfo.cs
+C:\Users\hotsh\OneDrive\Desktop\C#\Passcode\Passcode\obj\Debug\netcoreapp3.1\Passcode.csproj.CoreCompileInputs.cache
+C:\Users\hotsh\OneDrive\Desktop\C#\Passcode\Passcode\obj\Debug\netcoreapp3.1\Passcode.dll
+C:\Users\hotsh\OneDrive\Desktop\C#\Passcode\Passcode\obj\Debug\netcoreapp3.1\Passcode.pdb
+C:\Users\hotsh\OneDrive\Desktop\C#\Passcode\Passcode\obj\Debug\netcoreapp3.1\Passcode.genruntimeconfig.cache

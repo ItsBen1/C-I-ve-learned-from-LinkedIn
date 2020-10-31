@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Simple Fill-In Questions/1.0.0": {
+        "runtime": {
+          "Simple Fill-In Questions.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Simple Fill-In Questions/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

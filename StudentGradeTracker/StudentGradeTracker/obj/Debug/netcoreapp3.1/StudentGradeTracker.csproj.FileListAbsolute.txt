@@ -1,0 +1,13 @@
+C:\Users\hotsh\OneDrive\Desktop\C#\StudentGradeTracker\StudentGradeTracker\bin\Debug\netcoreapp3.1\StudentGradeTracker.exe
+C:\Users\hotsh\OneDrive\Desktop\C#\StudentGradeTracker\StudentGradeTracker\bin\Debug\netcoreapp3.1\StudentGradeTracker.deps.json
+C:\Users\hotsh\OneDrive\Desktop\C#\StudentGradeTracker\StudentGradeTracker\bin\Debug\netcoreapp3.1\StudentGradeTracker.runtimeconfig.json
+C:\Users\hotsh\OneDrive\Desktop\C#\StudentGradeTracker\StudentGradeTracker\bin\Debug\netcoreapp3.1\StudentGradeTracker.runtimeconfig.dev.json
+C:\Users\hotsh\OneDrive\Desktop\C#\StudentGradeTracker\StudentGradeTracker\bin\Debug\netcoreapp3.1\StudentGradeTracker.dll
+C:\Users\hotsh\OneDrive\Desktop\C#\StudentGradeTracker\StudentGradeTracker\bin\Debug\netcoreapp3.1\StudentGradeTracker.pdb
+C:\Users\hotsh\OneDrive\Desktop\C#\StudentGradeTracker\StudentGradeTracker\obj\Debug\netcoreapp3.1\StudentGradeTracker.csprojAssemblyReference.cache
+C:\Users\hotsh\OneDrive\Desktop\C#\StudentGradeTracker\StudentGradeTracker\obj\Debug\netcoreapp3.1\StudentGradeTracker.AssemblyInfoInputs.cache
+C:\Users\hotsh\OneDrive\Desktop\C#\StudentGradeTracker\StudentGradeTracker\obj\Debug\netcoreapp3.1\StudentGradeTracker.AssemblyInfo.cs
+C:\Users\hotsh\OneDrive\Desktop\C#\StudentGradeTracker\StudentGradeTracker\obj\Debug\netcoreapp3.1\StudentGradeTracker.csproj.CoreCompileInputs.cache
+C:\Users\hotsh\OneDrive\Desktop\C#\StudentGradeTracker\StudentGradeTracker\obj\Debug\netcoreapp3.1\StudentGradeTracker.dll
+C:\Users\hotsh\OneDrive\Desktop\C#\StudentGradeTracker\StudentGradeTracker\obj\Debug\netcoreapp3.1\StudentGradeTracker.pdb
+C:\Users\hotsh\OneDrive\Desktop\C#\StudentGradeTracker\StudentGradeTracker\obj\Debug\netcoreapp3.1\StudentGradeTracker.genruntimeconfig.cache

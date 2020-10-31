@@ -1,0 +1,13 @@
+C:\Users\hotsh\OneDrive\Desktop\C#\Simple Fill-In Questions\Simple Fill-In Questions\bin\Debug\netcoreapp3.1\Simple Fill-In Questions.exe
+C:\Users\hotsh\OneDrive\Desktop\C#\Simple Fill-In Questions\Simple Fill-In Questions\bin\Debug\netcoreapp3.1\Simple Fill-In Questions.deps.json
+C:\Users\hotsh\OneDrive\Desktop\C#\Simple Fill-In Questions\Simple Fill-In Questions\bin\Debug\netcoreapp3.1\Simple Fill-In Questions.runtimeconfig.json
+C:\Users\hotsh\OneDrive\Desktop\C#\Simple Fill-In Questions\Simple Fill-In Questions\bin\Debug\netcoreapp3.1\Simple Fill-In Questions.runtimeconfig.dev.json
+C:\Users\hotsh\OneDrive\Desktop\C#\Simple Fill-In Questions\Simple Fill-In Questions\bin\Debug\netcoreapp3.1\Simple Fill-In Questions.dll
+C:\Users\hotsh\OneDrive\Desktop\C#\Simple Fill-In Questions\Simple Fill-In Questions\bin\Debug\netcoreapp3.1\Simple Fill-In Questions.pdb
+C:\Users\hotsh\OneDrive\Desktop\C#\Simple Fill-In Questions\Simple Fill-In Questions\obj\Debug\netcoreapp3.1\Simple Fill-In Questions.csprojAssemblyReference.cache
+C:\Users\hotsh\OneDrive\Desktop\C#\Simple Fill-In Questions\Simple Fill-In Questions\obj\Debug\netcoreapp3.1\Simple Fill-In Questions.AssemblyInfoInputs.cache
+C:\Users\hotsh\OneDrive\Desktop\C#\Simple Fill-In Questions\Simple Fill-In Questions\obj\Debug\netcoreapp3.1\Simple Fill-In Questions.AssemblyInfo.cs
+C:\Users\hotsh\OneDrive\Desktop\C#\Simple Fill-In Questions\Simple Fill-In Questions\obj\Debug\netcoreapp3.1\Simple Fill-In Questions.csproj.CoreCompileInputs.cache
+C:\Users\hotsh\OneDrive\Desktop\C#\Simple Fill-In Questions\Simple Fill-In Questions\obj\Debug\netcoreapp3.1\Simple Fill-In Questions.dll
+C:\Users\hotsh\OneDrive\Desktop\C#\Simple Fill-In Questions\Simple Fill-In Questions\obj\Debug\netcoreapp3.1\Simple Fill-In Questions.pdb
+C:\Users\hotsh\OneDrive\Desktop\C#\Simple Fill-In Questions\Simple Fill-In Questions\obj\Debug\netcoreapp3.1\Simple Fill-In Questions.genruntimeconfig.cache
